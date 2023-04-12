@@ -41,7 +41,6 @@ myInput.addEventListener("focus", () => {
                 myInput.classList.remove("valid");
                 valMessage.style.display = "block";
                 myInput.classList.add("not-valid");
-                submitbtn.preventEvent("submit");
                 valIcon.style.display = "block";
         }
 })
