@@ -1,0 +1,38 @@
+.bg-black{
+    background-color: #151515;
+}
+.d-flex{
+    display: flex;
+}
+.d-grid{
+    display: grid;
+}
+.flex-between-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.c-white{
+    color: white;
+}
+.w-80{
+    width: 80%;
+}
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+.z-1{
+    z-index: -1;
+}
+.btn-shape{
+    text-decoration: none;
+}
+.valid{
+    border-bottom: solid 2px #4EE1A0 !important;
+}
+.not-valid{
+    border-bottom: solid 2px #FF6F5B !important;    
+}
